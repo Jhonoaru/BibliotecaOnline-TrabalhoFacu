@@ -19,29 +19,6 @@ A aplicação segue o conceito de **SPA - Single Page Application**, em que toda
 - [Axios](https://axios-http.com/)
 - **Hook utilizado:** `useReducer`
 
-# Projeto Biblioteca Online
-
-Projeto desenvolvido para a disciplina **Programação Web Fullstack**, com foco no desenvolvimento da camada **Frontend** de uma aplicação web utilizando **React.js** e **AJAX**.  
-
-A aplicação segue o conceito de **SPA - Single Page Application**, em que todas as funcionalidades são implementadas em uma única página HTML, sem a necessidade de redirecionamento entre páginas para atualização da interface.
-
----
-
-## Identificação
-- **Aluno:** João Victor  
-- **ID Acadêmico:** 2311500  
-
----
-
-## Tecnologias utilizadas
-- [React.js](https://react.dev/)
-- [Vite](https://vitejs.dev/)
-- [Material UI](https://mui.com/)
-- [Axios](https://axios-http.com/)
-- **Hook utilizado:** `useReducer`
-
----
-
 ## Estrutura do projeto
 
 src/
