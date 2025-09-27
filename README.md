@@ -7,7 +7,7 @@ A aplicação segue o conceito de **SPA - Single Page Application**, em que toda
 ---
 
 ## Identificação
-- **Aluno:** João Victor  
+- **Aluno:** João Victor Vieira dos Anjos
 - **ID Acadêmico:** 2311500  
 
 ---
